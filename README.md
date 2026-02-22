@@ -33,5 +33,5 @@ If you want to modify the code or compile the `.exe` yourself, follow these step
    ```bash
    python -m PyInstaller --onefile --windowed AC_OneClick_Installer.py
 
-###Disclaimer
+## Disclaimer
 Asheron's Call is a registered trademark of Turbine, Inc. and WB Games Inc. This project is a community-driven tool and is not affiliated with, endorsed by, or associated with Turbine, WB Games, or ACEmulator in any official capacity.
