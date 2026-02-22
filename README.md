@@ -32,3 +32,6 @@ If you want to modify the code or compile the `.exe` yourself, follow these step
 3. Run the following command to compile it into a standalone executable:
    ```bash
    python -m PyInstaller --onefile --windowed AC_OneClick_Installer.py
+
+###Disclaimer
+Asheron's Call is a registered trademark of Turbine, Inc. and WB Games Inc. This project is a community-driven tool and is not affiliated with, endorsed by, or associated with Turbine, WB Games, or ACEmulator in any official capacity.
